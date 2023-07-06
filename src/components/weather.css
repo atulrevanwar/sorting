@@ -1,0 +1,35 @@
+input:focus ~ .floating-label,
+input:not(:focus):valid ~ .floating-label{
+  top: 18px;
+  bottom: 10px;
+  left: 20px;
+  font-size: 11px;
+  opacity: 1;
+}
+.main-headline{
+    display:flex ;
+    justify-content: space-between;
+    width: 100%;
+}
+h1 {
+    color: #999999;
+    font-family: arial, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 0px;
+    margin-bottom: 1px;
+    }
+.inputText {
+  font-size: 14px;
+  width: 200px;
+  align-items: center;
+  height: 35px;
+}
+
+.floating-label {
+  position: absolute;
+  pointer-events: none;
+  left: 20px;
+  top: 18px;
+  transition: 0.2s ease all;
+}
