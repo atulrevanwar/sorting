@@ -25,7 +25,7 @@ export const data = [
         },
         {
             Sr: 1,
-            City: "Pune",
+            City: "Gangakhed",
             Weather: "Cloud",
             Temperature: "34",
             Pincode: 234342,
@@ -33,7 +33,7 @@ export const data = [
         },
         {
             Sr: 1,
-            City: "Pune",
+            City: "Hyderabad",
             Weather: "Cloud",
             Temperature: "34",
             Pincode: 234342,
@@ -41,7 +41,7 @@ export const data = [
         },
         {
             Sr: 1,
-            City: "Pune",
+            City: "Beed",
             Weather: "Cloud",
             Temperature: "34",
             Pincode: 234342,
@@ -49,7 +49,7 @@ export const data = [
         },
         {
             Sr: 1,
-            City: "Pune",
+            City: "Dhule",
             Weather: "Cloud",
             Temperature: "34",
             Pincode: 234342,
@@ -57,7 +57,7 @@ export const data = [
         },
         {
             Sr: 1,
-            City: "Pune",
+            City: "Nanded",
             Weather: "Cloud",
             Temperature: "34",
             Pincode: 234342,
@@ -65,7 +65,7 @@ export const data = [
         },
         {
             Sr: 1,
-            City: "Pune",
+            City: "Parli",
             Weather: "Cloud",
             Temperature: "34",
             Pincode: 234342,
@@ -73,7 +73,7 @@ export const data = [
         },
         {
             Sr: 1,
-            City: "Pune",
+            City: "AKola",
             Weather: "Cloud",
             Temperature: "34",
             Pincode: 234342,
@@ -81,7 +81,7 @@ export const data = [
         },
         {
             Sr: 1,
-            City: "Pune",
+            City: "Nashik",
             Weather: "Cloud",
             Temperature: "34",
             Pincode: 234342,
@@ -89,7 +89,7 @@ export const data = [
         },
         {
             Sr: 1,
-            City: "Pune",
+            City: "Chinchwad",
             Weather: "Cloud",
             Temperature: "34",
             Pincode: 234342,
